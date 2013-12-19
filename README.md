@@ -4,6 +4,8 @@ MemeSpeak
 An ambitious project aiming to allow one to converse only in memes.
 
 <img class="image" src="http://makeameme.org/media/templates/120/grumpy_cat.jpg" alt="" width="120" height="120">
+Just you wait, this will be epic.
+
 
 Todo:
 * create an app which allows one to collect favorite memes on one's meme dashboard, and then select them and potentially clear and edit hte text.
