@@ -9,7 +9,7 @@ Todo:
 * create an app which allows one to collect favorite memes on one's meme dashboard, and then select them and potentially clear and edit hte text.
 * Goal of this is to be very fast as to allow seamless communication without a need to speak.
 * store a series of memes here, and potentially look into api integration with makeameme and like sites.
-
+* possibly learn to create the fots and just overlay them in typical fashion via android or ios app.
 
 
 
